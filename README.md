@@ -1,12 +1,16 @@
 # Real-Time Emotion Recognition using DL
-
+# Code will be uploaded soon after getting permissions.
 
 ## Description
 This project attempts to identify 5 emotions namely neutral, sad, happy, surprised and anger in real-time using Mediapipe.
 
 
 ## Visuals
-Uploading soon...
+![sad](https://github.com/user-attachments/assets/63179b0f-5355-4ad8-8bd1-7f37e9476667)
+![neutral](https://github.com/user-attachments/assets/ee2a0d86-42df-4530-8fc7-3ec60074de85)
+![happy](https://github.com/user-attachments/assets/20e4e7d7-eb2d-4668-bed8-3d58f8d081db)
+![anger](https://github.com/user-attachments/assets/936866e7-83e8-4bb6-bdba-9aa0ecbfb0e0)
+
 
 ## Metadata
 
